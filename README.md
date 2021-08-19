@@ -1,5 +1,5 @@
 # Những gì biết về _gRPC_ & _Protobuf_
-
+#### link báo cáo tìm hiểu git nâng cao: https://docs.google.com/document/d/1eeWI9nLhCrDt0V2CXFeUfO63RqY7gpNfq8rJwHZVaqg/edit
 ### GRPC:
 là framework RPC mã nguồn mở được phát triển bởi google để tối ưu hóa, nâng cao hiệu quả cho trang web. Tăng tốc việc giao tiếp giữa các service trong Microservice.
 Có 4 loại trao đổi giữa client và server
